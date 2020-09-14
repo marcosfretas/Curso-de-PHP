@@ -165,6 +165,15 @@
                         <li>
                             <a href="exercicio.php?dir=db&file=criar_tabela">Criar Tabela</a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=inserir_1">Inserir_001</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=consultar">Consultar Registros</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=excluir_1">Excluir 001</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
