@@ -156,6 +156,15 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo roxo-escuro">
+                    <h3>14. Formulário</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=formulario&file=formulario">Formulário</a>
+                        </li>
+                     
+                    </ul>
+                </div>
                 <div class="modulo laranja">
                     <h3>15.Banco de Dados</h3>
                     <ul>
@@ -172,7 +181,10 @@
                             <a href="exercicio.php?dir=db&file=consultar">Consultar Registros</a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=db&file=excluir_1">Excluir 001</a>
+                            <a href="exercicio.php?dir=db&file=excluir_1">Excluir #01</a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=db&file=excluir_2">Excluir #02</a>
                         </li>
                     </ul>
                 </div>
